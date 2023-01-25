@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋 I'm Kris
 
-<!--
-**krisdimitrov/krisdimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like exploring new things, solve interesting problems and help and mentor others do so as well.
 
-Here are some ideas to get you started:
+Currently working as Tech Lead & Blockchain Engineer at Limechain and mentor in LimeAcademy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://github.com/krisdimitrov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisdimitrov&theme=buefy&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisdimitrov&theme=buefy&layout=compact" />
+</a>
+
+---
+
+### Get in touch
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/krisdimitrovv)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/krisdimitrov/)
