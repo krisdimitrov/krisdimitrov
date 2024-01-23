@@ -7,8 +7,8 @@ Currently working as Tech Lead & Blockchain Engineer at Limechain and mentor in 
 ---
 
 <a href="https://github.com/krisdimitrov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisdimitrov&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisdimitrov&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-three-gules.vercel.app/api?username=krisdimitrov&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-three-gules.vercel.app/api/top-langs/?username=krisdimitrov&layout=compact&hide=css,scss" />
 </a>
 
 ---
