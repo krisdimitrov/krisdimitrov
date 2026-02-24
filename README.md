@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Kris
 
-I like exploring new things, solve interesting problems and help and mentor others do so as well.
-
-Currently working as Tech Lead & Blockchain Engineer at Limechain and mentor in LimeAcademy.
-
+I'm a Technical Team Lead with 14+ years of software engineering experience and 4+ years in Web3, leading multiple engineering teams.
+ Expert in JavaScript / TypeScript / Node.js and strong focus and experience in Web3 and EVM-based development.
+ 
 ---
 
 <a href="https://github.com/krisdimitrov">
