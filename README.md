@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Kris
 
-I'm a Technical Team Lead with 14+ years of software engineering experience and 4+ years in Web3, leading multiple engineering teams.
+I'm a Technical Team Lead with 15 years of software engineering experience and 5 years in Web3, leading multiple engineering teams.
  Expert in JavaScript / TypeScript / Node.js and strong focus and experience in Web3 and EVM-based development.
  
 ---
 
 <a href="https://github.com/krisdimitrov">
-  <img height="180em" src="https://github-readme-stats-three-gules.vercel.app/api?username=krisdimitrov&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-three-gules.vercel.app/api/top-langs/?username=krisdimitrov&layout=compact&hide=css,scss" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=krisdimitrov&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_blue" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krisdimitrov&layout=compact&theme=shadow_blue&hide=html,css,scss,php,smarty,less,go%20template" />
 </a>
 
 ---
