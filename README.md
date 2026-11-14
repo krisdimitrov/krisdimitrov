@@ -13,8 +13,8 @@ Extensive experience in:
 ---
 
 <a href="https://github.com/krisdimitrov">
-  <img height="190em" src="https://github-stats-extended.vercel.app/api?username=krisdimitrov&theme=dark_github&rank_icon=github&show_icons=true&include_all_commits=true&contribs_include_own_repos=true" />
-  <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krisdimitrov&theme=dark_github&layout=compact&hide=html,css,scss,php,smarty,less,go%20template&card_width=467&langs_count=5" />
+  <img height="150em" src="https://github-stats-extended.vercel.app/api?username=krisdimitrov&theme=dark_github&rank_icon=github&show_icons=true&include_all_commits=true&contribs_include_own_repos=true" />
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krisdimitrov&theme=dark_github&layout=compact&hide=html,css,scss,php,smarty,less,go%20template&card_width=467&langs_count=5" />
 </a>
 
 ---
